@@ -1,5 +1,5 @@
 ﻿## TheCashier
-Aplikasi ini digunakan untuk menghitung jumlahdan harga dari  pembelian suatu barang/jasa
+Aplikasi ini digunakan untuk menghitung jumlah, harga serta total harga dari  pembelian suatu barang/jasa
 ## Fungsionalitas
 - User dapat menginputkan jasa atau barang yang dibeli,menginputkan jumlah dan harga
 - Aplikasi dapat menampilkan barang yang di beli dan menampilkan total dari harga barang/jasa tersebut
@@ -24,5 +24,5 @@ Dimana item dimasukan kedalam list dan menghitung harga total semua barangnya
             return subtotal;
         }
 
-''
+
 Pada code diatas digunakan untuk menghitung sub total harga dari setiap barang
